@@ -97,6 +97,16 @@ Finally, after a team braingasm session, we started doing the model. We designed
 
 § Radiation protective coating for later use in outer planetary surface. These are a double layer coating in which, the outer layer is made up of Anti-reflective (AR) MgF2 coat and an inner layer of Aluminum doped Zinc Oxide (AZO) coat.
 
+
+## Links:
+
+Webpage: https://nextgeneva-7493d.web.app/
+
+GrabCAD: https://grabcad.com/library/space-exploration-planetary-geology-toolset-1
+
+Youtube: https://youtu.be/zOBOWlLnwZM
+
+
 ## How We Used Space Agency Data in This Project
 Apollo Mission EVA Tools Catalogue-https://curator.jsc.nasa.gov/lunar/catalogs/other/jsc23454toolcatalog.pdf
 
@@ -105,6 +115,10 @@ Artemis EVA Tool Project-https://www.nasa.gov/sites/default/files/atoms/files/to
 Apollo Mission Information- https://www.nasa.gov/mission_pages/apollo/index.html
 
 Apollo Mission Tool Review- https://www.lpi.usra.edu/science/kring/lunar_exploration/geologicTools.pdf
+
+
+
+
 
 ## Data & Resources
 [1] https://curator.jsc.nasa.gov/lunar/catalogs/other/jsc23454toolcatalog.pdf
