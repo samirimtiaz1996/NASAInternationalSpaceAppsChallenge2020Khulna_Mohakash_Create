@@ -1,20 +1,13 @@
-# NASAInternationalSpaceAppsChallenge2020Khulna_Mohakash_Create
-Summary
+# NASA International Space Apps Challenge 2020 (Khulna_Mohakash_Create)
+## Summary
 The Space Trident is a modified version of the existing planetary geology toolset that deals with two major aspects: firstly, comes the structural modification of the toolset for better maneuverability and secondly, a proper coating to protect it from terrestrial radiation. The Space Trident have 3 major sections: Extension Handle, Stem &amp; Tool Heads. With a single extension handle &amp; stem, by varying the tool heads, explorers can use 4 different important tools (Rake, Small scoop, Large Scoop, Trenching Tool). This reduces the gross weight to be carried by the lander. The fitting mechanism is newly proposed, and very simple to perform. A secondary handle is also proposed for better handling.
-How We Addressed This Challenge
+## How We Addressed This Challenge
 Humans last step on the moon was in 1969 to 72's Apollo missions. It consisted of a series of landings onto the lunar surface. From Apollo mission 11 to 17, Astronauts collected different samples of lunar surface and brought them back to the earth. The common geology tools they used to collect the samples are: the rake, hammer, scoop, drive tube etc [1]. To improvise a new tool for them, our plan was to modify the previously used tools as it will provide us additional time to work on the weaknesses of the current resources and less expenses to be done on the massive testing of new toolset. Hence, We have developed a toolset by modifying the tools used by the astronauts in Apollo missions by NASA. Structural changes to these sections have reduced dead-weight and simplified mobility and ease of working for the explorers.
-
-
-
-Design Facility:
-
-
-
+## Design Facility:
 The 3D model of the toolset named Space Trident is designed with three main parts: Extension Handle, Stem & Tool Heads. For the design of common extension handle of the tool-set, a shaft made up of Aluminum Alloy-T6 was used. There is a T-handle and a Secondary handle added to the design which incorporates Aluminum Alloy 6061 properly grooved for better gripping experience. A slider at the bottom of the extension handle enables good adjustability of the tool. In the Stem section, a shaft reinforced with steel is used as the common stem of the toolset. There is an angle locking mechanism at the bottom where the tool heads (Scoop Buckets, Rake Bucket, Trenching Tool) can be locked by simply pulling the lock pin and setting the head in the socket designed at the angle locking plate. The attachable tool heads for this design are: Small Scoop, Large Scoop, Rake and Trenching Tool. These are also made up of Stainless Steel and Aluminum Alloy.
 
 
-
-Setup Process Breakdown:
+## Setup Process Breakdown:
 
 § Put the stem in the socket of extension handle
 
@@ -28,7 +21,7 @@ Setup Process Breakdown:
 
 
 
-Solution Breakdown:
+## Solution Breakdown:
 
 
 
@@ -59,7 +52,7 @@ We all know that in space, everything is highly exposed to solar radiation. Comp
 
 
 
-Applicability and Feasibility:
+## Applicability and Feasibility:
 
 
 
@@ -82,23 +75,17 @@ Finally, after a team braingasm session, we started doing the model. We designed
 
 
 
-Tools Used:
+## Tools Used:
+
+1. Solidworks
+2. Unity Webgl
+3. Blender
+4. Visual Studio Code Editor
 
 
 
 
-
-
-
-
-
-Solidworks
-Unity Webgl
-
-
-
-
-After modifications, we have achieved the followings:
+## After modifications, we have achieved the followings:
 
 § Reduction of weight of the toolset by using common stem instead of separate stem.
 
@@ -110,14 +97,16 @@ After modifications, we have achieved the followings:
 
 § Radiation protective coating for later use in outer planetary surface. These are a double layer coating in which, the outer layer is made up of Anti-reflective (AR) MgF2 coat and an inner layer of Aluminum doped Zinc Oxide (AZO) coat.
 
-How We Used Space Agency Data in This Project
+## How We Used Space Agency Data in This Project
 Apollo Mission EVA Tools Catalogue-https://curator.jsc.nasa.gov/lunar/catalogs/other/jsc23454toolcatalog.pdf
+
 Artemis EVA Tool Project-https://www.nasa.gov/sites/default/files/atoms/files/topic_5_initial_artemis_geology_sampling_tools.pdf
+
 Apollo Mission Information- https://www.nasa.gov/mission_pages/apollo/index.html
+
 Apollo Mission Tool Review- https://www.lpi.usra.edu/science/kring/lunar_exploration/geologicTools.pdf
-Project Code
-https://github.com/samirimtiaz1996/NASAInternationalSpaceAppsChallenge2020Khulna_Mohakash_Create
-Data & Resources
+
+## Data & Resources
 [1] https://curator.jsc.nasa.gov/lunar/catalogs/other/jsc23454toolcatalog.pdf
 
 [2] https://www.lpi.usra.edu/lunar/samples/apollo/tools/index.shtml
